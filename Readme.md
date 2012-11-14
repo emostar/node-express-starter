@@ -1,0 +1,1 @@
+A skeleton to start a new project with express.
